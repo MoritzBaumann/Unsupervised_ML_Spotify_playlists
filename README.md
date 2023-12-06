@@ -1,4 +1,4 @@
-# Unsupervised_Machine_Learning
+# Unsupervised_ML_Spotify_playlists
 
 Did you every have a large music playlist containing songs that don't fit together at all? Here is where machine learning can help you.
 In this **Unsupervised Machine Learning** project I analyse a dataset of 5000 songs and assign them to playlists based on their musical features. 
