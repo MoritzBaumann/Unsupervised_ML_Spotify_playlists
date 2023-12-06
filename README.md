@@ -16,10 +16,8 @@ My statistical tools are **K-Means Clustering** and **Principal Component Analys
 - **K-Means clustering** is an unsupervised machine learning algorithm that can be used to group a dataset of musical features into a predefined number of clusters. Each cluster represents a group of songs that share similar musical characteristics. K-Means clustering can be used to identify different genres of music, or to discover new musical genres that may not have been previously identified. It can also be used to group songs together based on their mood or energy level.
 
 ## Content
-- `Unsupervised_Machine_Learning_Spotify_data.ipynb` -> Use API calls and web-scraping to collect data on cities, airports, flight arrivals and weather forecasts.
-
-Not yet uploaded is the dataset, which I will provide shortly in a Google Drive repository.
+- `Unsupervised_Machine_Learning_Spotify_data.ipynb` -> data preparation, K-Means clustering and PCA, interpretation and conclusion
 
 ## Context
 This Machine Learning project was carried out in the context of a 4.5 month-long Data Science bootcamp with WBS Coding School. 
-Many thanks to WBS Coding School and to my instructors for the guidance.
+Many thanks to WBS Coding School and to my instructors for the excellent guidance.
